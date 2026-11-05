@@ -1,0 +1,10 @@
+{
+  "name": "lan-battleship",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A two-player battleship game for a local network",
+  "scripts": {
+    "start": "node server/index.js",
+    "test": "node --test"
+  }
+}
